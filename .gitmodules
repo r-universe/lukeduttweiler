@@ -5,3 +5,6 @@
 [submodule "genMCMCDiag"]
 	path = genMCMCDiag
 	url = https://github.com/lukeduttweiler/genmcmcdiag
+[submodule "skipTrack"]
+	path = skipTrack
+	url = https://github.com/lukeduttweiler/skiptrack
